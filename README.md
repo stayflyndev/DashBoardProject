@@ -3,7 +3,7 @@
 # Functionality 
 This is a dashboard app based on Animal Rescue that allows you to filter available animals and their details
 
-![Screenshot of the complete Dashboard](images/dashboard_main_view.png)
+![Screenshot of the complete Dashboard](1.png)
 
 # Tech Stack
 Python, MongoDB, Dash, DashLeaf
